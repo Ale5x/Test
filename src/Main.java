@@ -4,5 +4,7 @@ public class Main {
         Test test = new Test();
 
         System.out.println(test.getString());
+
+        System.out.println("test.getString()");
     }
 }
